@@ -7,7 +7,7 @@ let theme = createTheme({
     },
     secondary: {
       main: '#4f8e3e'
-    }
+    },
   },
   typography: {
     fontFamily: 'serif'
