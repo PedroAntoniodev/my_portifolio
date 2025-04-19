@@ -1,5 +1,11 @@
+import Home from './pages/Home/home'
+
 const App = () => {
-  return <>App cpfawfafasa s wa</>
+  return (
+    <>
+      <Home />
+    </>
+  )
 }
 
 export default App
