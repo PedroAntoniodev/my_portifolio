@@ -2,7 +2,8 @@ import { styled, Toolbar } from '@mui/material'
 
 export const NavLink = styled('a')(() => ({
   textDecoration: 'none',
-  color: 'inherit'
+  color: 'inherit',
+  cursor: 'pointer'
 }))
 
 export const MobileToolbar = styled(Toolbar)(({ theme }) => ({
